@@ -10,7 +10,7 @@
 
     <groupId>io.github.rafhael-s-p</groupId>
     <artifactId>mssc-brewery-config</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>mssc-brewery-config</name>
     <description>MSSC Brewery Config</description>
 
@@ -179,7 +179,7 @@
         <connection>scm:git:git@github.com:rafhael-s-p/mssc-brewery-config.git</connection>
         <developerConnection>scm:git:git@github.com:rafhael-s-p/mssc-brewery-config.git</developerConnection>
         <url>https://github.com/rafhael-s-p/mssc-brewery-config</url>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
